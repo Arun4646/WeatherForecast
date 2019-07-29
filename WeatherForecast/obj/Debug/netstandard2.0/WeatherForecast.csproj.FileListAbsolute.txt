@@ -1,0 +1,9 @@
+C:\Users\arunk\OneDrive\Desktop\Arun\TestAutomationSolutions\WeatherForecast\WeatherForecast\obj\Debug\netstandard2.0\WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\arunk\OneDrive\Desktop\Arun\TestAutomationSolutions\WeatherForecast\WeatherForecast\obj\Debug\netstandard2.0\WeatherForecast.AssemblyInfoInputs.cache
+C:\Users\arunk\OneDrive\Desktop\Arun\TestAutomationSolutions\WeatherForecast\WeatherForecast\obj\Debug\netstandard2.0\WeatherForecast.AssemblyInfo.cs
+C:\Users\arunk\OneDrive\Desktop\Arun\TestAutomationSolutions\WeatherForecast\WeatherForecast\bin\Debug\netstandard2.0\WeatherForecast.deps.json
+C:\Users\arunk\OneDrive\Desktop\Arun\TestAutomationSolutions\WeatherForecast\WeatherForecast\bin\Debug\netstandard2.0\WeatherForecast.dll
+C:\Users\arunk\OneDrive\Desktop\Arun\TestAutomationSolutions\WeatherForecast\WeatherForecast\bin\Debug\netstandard2.0\WeatherForecast.pdb
+C:\Users\arunk\OneDrive\Desktop\Arun\TestAutomationSolutions\WeatherForecast\WeatherForecast\obj\Debug\netstandard2.0\WeatherForecast.csprojAssemblyReference.cache
+C:\Users\arunk\OneDrive\Desktop\Arun\TestAutomationSolutions\WeatherForecast\WeatherForecast\obj\Debug\netstandard2.0\WeatherForecast.dll
+C:\Users\arunk\OneDrive\Desktop\Arun\TestAutomationSolutions\WeatherForecast\WeatherForecast\obj\Debug\netstandard2.0\WeatherForecast.pdb

@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\arunk\\OneDrive\\Desktop\\Arun\\TestAutomationSolutions\\WeatherForecast\\WeatherForecast\\WeatherForecast.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\arunk\\OneDrive\\Desktop\\Arun\\TestAutomationSolutions\\WeatherForecast\\WeatherForecast\\WeatherForecast.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\arunk\\OneDrive\\Desktop\\Arun\\TestAutomationSolutions\\WeatherForecast\\WeatherForecast\\WeatherForecast.csproj",
+        "projectName": "WeatherForecast",
+        "projectPath": "C:\\Users\\arunk\\OneDrive\\Desktop\\Arun\\TestAutomationSolutions\\WeatherForecast\\WeatherForecast\\WeatherForecast.csproj",
+        "packagesPath": "C:\\Users\\arunk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arunk\\OneDrive\\Desktop\\Arun\\TestAutomationSolutions\\WeatherForecast\\WeatherForecast\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\arunk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.6.9, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.0.225, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
